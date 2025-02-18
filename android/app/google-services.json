@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915296326922",
+    "project_id": "cakery-1d6f1",
+    "storage_bucket": "cakery-1d6f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915296326922:android:f5d814a50f83e9bd9796f3",
+        "android_client_info": {
+          "package_name": "com.example.cakery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnE3RXPF9t3WYvj5yx65PU1QZTqKf01Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
